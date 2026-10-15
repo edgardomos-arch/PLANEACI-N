@@ -1,9 +1,0 @@
-{
-  "name": "planeacion-fesc-comite",
-  "private": true,
-  "version": "2.0.0",
-  "description": "Archivo de actas del Comité de Planeación FESC (Netlify + Netlify Blobs)",
-  "dependencies": {
-    "@netlify/blobs": "^8.1.0"
-  }
-}
